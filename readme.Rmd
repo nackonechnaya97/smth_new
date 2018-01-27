@@ -1,0 +1,14 @@
+---
+title: "readme"
+author: "Nakonechnaya_E"
+date: "27 01 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Этот файл содержит описание проекта 
+Здесь много полезного и умного текста 
+
